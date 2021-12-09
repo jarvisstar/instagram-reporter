@@ -6,13 +6,13 @@
 
 * `apt update`
 * `apt install git curl php wget -y`
-* `git clone https://github.com/muneebwanee/InstaReporter.git`
+* `git clone https://github.com/jarvisstar/instagram-reporter.git`
 * `cd InstaReporter`
-#### > Run : `python3 InstaReporter.py`
+#### > Run : `python3 instagram-reporter.py`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone https://github.com/muneebwanee/InstaReporter.git ; cd InstaReporter ; python3 InstaReporter.py
+apt update ; apt install git curl wget php -y ; git clone https://github.com/jarvisstar/instagram-reporter.git ; cd instagram-reporter ; python3 instagram-reporter.py
 ```
 
 
