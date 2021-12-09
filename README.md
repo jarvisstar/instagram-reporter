@@ -17,6 +17,8 @@ apt update ; apt install git curl wget php -y ; git clone https://github.com/jar
 
 
 ### <<< If you copy , Then Give me The Credits >>>
+ muneebwanee /
+InstaReporter 
 
 ## Features :
 #### [+] Latest Report Method !
